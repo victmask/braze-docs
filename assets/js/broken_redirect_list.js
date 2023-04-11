@@ -702,3 +702,4 @@ validurls['/docs/user_guide/engagement_tools/campaigns/ideas_and_strategies/camp
 validurls['/docs/user_guide/engagement_tools/canvas/create_a_canvas/branching/'] = '/docs/user_guide/engagement_tools/canvas/create_a_canvas/create_a_canvas/';
 validurls['/docs/user_guide/engagement_tools/testing/multivariant_testing/#recommended-follow-ups'] = '/docs/user_guide/engagement_tools/testing/multivariant_testing/multivariate_analytics/#recommended-follow-ups';
 validurls['/docs/developer_guide/platform_integration_guides/swift/live_activities'] = '/docs/developer_guide/platform_integration_guides/swift/live_activities/live_activities';
+validurls['/docs/user_guide/message_building_by_channel/content_cards/customize/'] = '/docs/developer_guide/customization_guides/customization_overview';
