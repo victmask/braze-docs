@@ -81,7 +81,16 @@ A [Canvas]({{site.baseurl}}/user_guide/engagement_tools/canvas/) identifier or C
 Note that if you have a Canvas that has variants, there exists an overall Canvas ID as well as individual variant Canvas IDs nested under the main Canvas. 
 
 #### Where can I find it?
-You can find your Canvas ID in the dashboard. Open up **Canvas** under **Engagement** and select a pre-existing Canvas. If the Canvas you want does not exist yet, create one and save it. At the bottom of an individual Canvas page, click **Analyze Variants**. A window appears with the Canvas API identifier located at the bottom.
+You can find your Canvas ID in the dashboard. Open up **Canvas** under **Engagement** and select a pre-existing Canvas. If the Canvas you want does not exist yet, create one and save it. 
+
+If the Canvas' status is Active/Stopped/Archived:
+At the bottom of an individual Canvas page, click **Analyze Variants**. A window appears with the Canvas API identifier located at the bottom.
+
+If the Canvas' status is Draft:
+In the Entry Rules, click on Schedule, a tab opens with the different types of schedules. Choose API-Triggered, a Canvas ID will be located there
+<img width="640" alt="entry_rules_schedule_canvas_id" src="https://user-images.githubusercontent.com/357519/233742137-8354eb51-5eb6-46f8-a200-a0d2c16fe24d.png">
+
+
 
 #### What can it be used for?
 - Track analytics on a specific message
